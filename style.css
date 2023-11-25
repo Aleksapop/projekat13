@@ -1,0 +1,217 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.prvi {
+    border-bottom: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 1000;
+    display: flex;
+}
+
+.prvi .col-md-2 {
+    color: #FFD204;
+    font-size: 27px;
+    margin-left: 50px;
+}
+
+.prvi  .col-md-6 {
+    margin-left: -10px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.prvi .eee h6 {
+    margin-left: 60px;
+    margin-top: 10px;
+    background-color: yellow;
+}
+
+.prvi .eee h6:hover {
+    background-color: red;
+}
+
+.prvi  .col-md-4 {
+    margin-top: 10px;
+    margin-left: -80px;
+}
+
+
+.naslov {
+    margin-top: 40px;
+}
+
+.naslov h1, p {
+    text-align: center;
+}
+
+.naslov p {
+    text-align: center;
+    margin-left: 40px;
+}
+
+.naslov h1 {
+    color: #FFD204;
+}
+
+.slike {
+    display: flex;
+    text-align: center;
+}
+
+
+.slike .img {
+    border: 1px solid black;
+    margin-left: 40px;
+}
+
+.slike .img p {
+    text-align: center;
+    margin-left: 0px;
+}
+
+.slike .img3 {
+    border: 1px solid black;
+    margin-left: 35px;
+}
+
+.slike .img3 p {
+    margin-left: 0;
+}
+
+.slike .img1 {
+    border: 1px solid black;
+    margin-left: 35px;
+}
+
+.slike .img1 p {
+    margin-left: 0;
+}
+
+.kraj {
+    padding: 100px;
+    margin-left: -60px;
+}
+
+.kraj h5 {
+    margin-left: 280px;
+    margin-top: -225px;
+}
+
+.kraj h1, p {
+    margin-left: 280px;
+}
+
+.kraj p {
+    text-align: left;
+}
+
+.kraj img {
+    width: 250px;
+    margin-top: -30px;
+}
+
+.kraj h1 {
+    color: black;
+}
+
+.kraj h1:hover {
+    color: red;
+}
+
+.kraj .reklama img {
+    margin-left: 1100px;
+    margin-top: -225px;
+    position: sticky;
+}
+
+.slika5 {
+    margin-left: 40px;
+    display: flex;
+}
+
+.slika5 img {
+    width: 250px;
+    height: 210px;
+    margin-top: -300px;
+}
+
+.slika5 h6 {
+    margin-top: -275px;
+    margin-left: 20px;
+}
+
+.slika5 h1 {
+    margin-top: -255px;
+    margin-left: -220px;
+}
+
+.slika5 p {
+    margin-left: -820px;
+    margin-top: -200px;
+    text-align: left;
+}
+
+.slika5 h1:hover {
+    color: red;
+}
+
+.slika6 img {
+    width: 260px;
+    height: 210px;
+    margin-left: 40px;
+    margin-top: -30px;
+}
+
+.slika6 h6 {
+    margin-left: 320px;
+    margin-top: -190px;
+}
+
+.slika6 h1 {
+    margin-left: 320px;
+}
+
+.slika6 h1:hover {
+    color: red;
+}
+
+.slika6 p {
+    text-align: left;
+    margin-left: 320px;
+}
+
+.slika7 img {
+    width: 260px;
+    height: 210px;
+    margin-left: 40px;
+    margin-top: 70px;
+}
+
+.slika7 h6 {
+    margin-left: 320px;
+    margin-top: -190px;
+}
+
+.slika7 h1 {
+    margin-left: 320px;
+}
+
+.slika7 h1:hover {
+    color: red;
+}
+
+.slika7 p {
+    text-align: left;
+    margin-left: 320px;
+}
+
+.reklama2 img {
+    margin-top: 70px;
+    margin-left: 350px;
+}
